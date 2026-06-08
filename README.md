@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/28691446/README.md)
-# 🐳 Infraestrutura com Persistência de Dados em Docker
+#  Infraestrutura com Persistência de Dados em Docker
 
-**Disciplina:** Cybersecurity Offensive Lab  
+**Disciplina:** Infraestrutura e Serviços de TI  
 **Professor:** DANIEL OHATA  
 **Aluno:** Kaike Figueiredo  
 **Repositório:** infra-persistencia-docker  
